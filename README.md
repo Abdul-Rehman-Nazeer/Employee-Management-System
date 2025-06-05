@@ -75,3 +75,54 @@ python manage.py runserver
 7. Visit `http://127.0.0.1:8000` in your browser
 
 ## 📝 Project Structure
+
+ems/
+├── employee_information/
+│ ├── templates/
+│ │ └── employee_information/
+│ │ ├── home.html
+│ │ ├── login.html
+│ │ └── ...
+│ ├── models.py
+│ ├── views.py
+│ └── ...
+├── static/
+│ └── employee_information/
+│ ├── assets/
+│ └── ...
+└── manage.py
+
+
+
+## 🔑 Login Credentials
+
+After creating a superuser, you can log in with:
+- Username: username
+- Password: password
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/9f7e64d9-1761-448d-87ab-f3880fff1129)
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+Abdul Rehman Nazeer
+- GitHub: [@AbdulRehmanNazeer](https://github.com/AbdulRehmanNazeer)
+
+## �� Acknowledgments
+
+- Django Documentation
+- Bootstrap
+- Material Design
+
+---
+⭐ Star this repository if you find it helpful!
